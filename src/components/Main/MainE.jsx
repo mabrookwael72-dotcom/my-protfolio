@@ -43,7 +43,7 @@ export default function MainE() {
           <div className="w-48 h-48 mx-auto mt-6 overflow-hidden rounded-full p-1 bg-gradient-to-r from-blue-500 via-violet-500 to-fuchsia-500 shadow-lg shadow-blue-500/30">
             <img 
               className="w-full h-full object-cover rounded-full border-4 border-slate-950" 
-              src="/WhatsApp Image 2026-10-16 at 19.09.03.jpeg" 
+              src="/profile.jpg.jpeg" 
               alt="Mosab Wael" 
             />
           </div>
@@ -119,7 +119,7 @@ export default function MainE() {
           <div className="w-full md:w-1/2 h-[360px] rounded-xl overflow-hidden">
             <img 
               className="w-full h-full object-cover" 
-              src="/WhatsApp Image 2026-10-16 at 19.09.03.jpeg" 
+              src="/profile.jpg.jpeg" 
               alt="Mosab Wael" 
             />
           </div>
