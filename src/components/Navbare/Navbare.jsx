@@ -8,7 +8,7 @@ export default function Navbare() {
           <div className="p-[2px] rounded-full bg-gradient-to-r from-blue-500 via-violet-500 to-fuchsia-500">
             <img
               className="w-10 h-10 rounded-full object-cover border-2 border-slate-950"
-              src="/profile.jpg.jpeg"
+              src="/profile.jpg"
               alt="Profile"
             />
           </div>
